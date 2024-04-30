@@ -1,1 +1,1 @@
-# Typing-Speed-Test-Using-Python
+A typing speed test project in Python is a program designed to measure a user's typing speed and accuracy. It typically presents the user with a passage of text and prompts them to type it as quickly and accurately as possible. The program records the time taken to complete the passage and calculates the typing speed in words per minute (WPM) or characters per minute (CPM), along with the accuracy percentage.
